@@ -1,4 +1,5 @@
 # 雪国
 川端康成 著
 
-[下载页面传送门](http://ecator.github.io/yukiguni)
+# 下载
+[打包下载](http://ecator.github.com/ballzip/yukiguni)
